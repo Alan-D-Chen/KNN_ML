@@ -1,8 +1,9 @@
 # KNN_ML
-========================================================
+========================================================<br>
 Demo for KNN(K-Nearest Neighbor) &amp; Iris module(a classical test) in data analysis in Python 
 
 >>>This is a simple demo for KNN(K-Nearest Neighbor)<br>
+<br>
 >>Python3 Pycharm <br>
 
 
@@ -34,7 +35,7 @@ def getAccuracy(testSet, predictions):
 ```
  
  you will find some help from here:<br>
- **[help1](https://www.cnblogs.com/hfdkd/p/7719134.html)<br>
+ **[help2](https://www.cnblogs.com/hfdkd/p/7719134.html)<br>
  
  
  
